@@ -1,0 +1,72 @@
+Count,Resolution_code
+4,3rd Party Embedded/ Integrated Product - Documentation Error
+30,3rd Party Embedded/ Integrated Product - HW Failure
+35,3rd Party Embedded/ Integrated Product - SW Failure
+166,3rd Party Standalone Product Problem
+108,Add/Move/Change
+184,Cancelled by Customer
+40,Capacity Exceeded
+40,Change Request (Customization)
+350,Cleared Without Intervention
+460,Client Equipment
+43,Compatibility Issue
+491,Configuration Change
+1409,Configuration Error
+14,Customer Closure Request
+212,Customer Maintenance
+486,Customer's Transmission Network
+9,DNA TSV Import Issue
+39,Design Issue
+49,Documentation Error
+47,Documentation Request
+1032,Duplicate Case
+458,Equipment Reset
+19,Error in MOP
+763,External Fiber
+181,External Other
+70,External Power
+56,Failure on Customer Purchased Equipment
+243,Feature Request
+200,HW Design Fault - Routing to HW Services
+2447,HW Failure- Routing to HW Services
+5931,Hardware Replaced
+1097,Hardware Reset
+107,IP Networks
+15,Infinera Installation Error
+54,Infinera Maintenance
+3,Infinera TAC Error
+312,Installation Procedure Not Followed
+150,Instant Bandwidth Problem
+426,Instructions (MOP) Not Followed
+490,Known Issue
+270,License Request
+506,Maintenance Procedure Not Followed
+25,Multi-Vendor Support
+189,Network Planning
+628,No Customer Response
+122,No Trouble Found
+210,Not Applicable for Product
+1,Open TOM
+199,Opened in Error
+1152,Operational Error
+99,Operator Error
+740,Other
+379,Other Reason
+124,Power Supply/Management
+68,Product Improvement Request/Proposal
+813,Question
+850,SW Fault - Correction Available
+150,SW Fault - Correction Not Needed
+209,SW Fault - Correction to be Implemented
+335,SW Fault - Future Correction
+456,SW Fault - Workaround Provided as a Permanent Resolution
+6,Security Threat
+376,"Site Condition (e.g. Power, Temperature, Humidity)"
+413,Software Problem
+45,Software Request
+19,System Access Request
+641,Technical Advice Requested (originally Trouble Resolution)
+691,Transmission (e.g. External IP Network)
+2,UPS
+745,Unknown - Unable to Reproduce
+73,Web Portal Problem
